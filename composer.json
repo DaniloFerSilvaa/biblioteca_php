@@ -1,0 +1,15 @@
+{
+    "name": "dan/biblioteca",
+    "description": "biblioteca oop",
+    "autoload": {
+        "psr-4": {
+            "Dan\\Biblioteca\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "danilo silva"
+        }
+    ],
+    "require": {}
+}
